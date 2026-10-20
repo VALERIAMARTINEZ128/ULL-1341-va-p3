@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES - CONGELADOR CON CANALES RGB
+==============================================================
+Estudiante: valeria yaretzi NC = 1341
+
+Nombre del archivo: img-congelador-1341.jpg
+Ruta del archivo: D:\materia de nava 2\Gpo3H_IA_1341\VA\Ull-2-1341-VA\P3-1341-va\img-original-1341\img-congelador-1341.jpg
+Formato por extension: .JPG
+Tamano en bytes: 16239
+Tamano en KB: 15.86
+Tamano en MB: 0.0155
+
+DIMENSIONES
+-----------
+Ancho: 384 pixeles
+Alto: 520 pixeles
+Resolucion: 384 x 520
+Total de pixeles: 199,680
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: RGB
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 148.91
+
+PROMEDIO POR CANAL
+------------------
+Rojo (R): 149.60
+Verde (G): 149.46
+Azul (B): 147.67
+
+Nota: Se modificaron las 3 secciones del congelador para
+representar visualmente la separacion de canales RGB.
